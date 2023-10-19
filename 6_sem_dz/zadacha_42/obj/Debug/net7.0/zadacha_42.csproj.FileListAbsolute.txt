@@ -1,0 +1,14 @@
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\bin\Debug\net7.0\zadacha_42.exe
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\bin\Debug\net7.0\zadacha_42.deps.json
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\bin\Debug\net7.0\zadacha_42.runtimeconfig.json
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\bin\Debug\net7.0\zadacha_42.dll
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\bin\Debug\net7.0\zadacha_42.pdb
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\obj\Debug\net7.0\zadacha_42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\obj\Debug\net7.0\zadacha_42.AssemblyInfoInputs.cache
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\obj\Debug\net7.0\zadacha_42.AssemblyInfo.cs
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\obj\Debug\net7.0\zadacha_42.csproj.CoreCompileInputs.cache
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\obj\Debug\net7.0\zadacha_42.dll
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\obj\Debug\net7.0\refint\zadacha_42.dll
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\obj\Debug\net7.0\zadacha_42.pdb
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\obj\Debug\net7.0\zadacha_42.genruntimeconfig.cache
+C:\Users\Рыжий\Desktop\Git\6_sem_dz\zadacha_42\obj\Debug\net7.0\ref\zadacha_42.dll
