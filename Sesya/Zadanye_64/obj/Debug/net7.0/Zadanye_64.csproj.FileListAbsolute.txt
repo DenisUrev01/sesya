@@ -1,0 +1,14 @@
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\bin\Debug\net7.0\Zadanye_64.exe
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\bin\Debug\net7.0\Zadanye_64.deps.json
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\bin\Debug\net7.0\Zadanye_64.runtimeconfig.json
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\bin\Debug\net7.0\Zadanye_64.dll
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\bin\Debug\net7.0\Zadanye_64.pdb
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\obj\Debug\net7.0\Zadanye_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\obj\Debug\net7.0\Zadanye_64.AssemblyInfoInputs.cache
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\obj\Debug\net7.0\Zadanye_64.AssemblyInfo.cs
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\obj\Debug\net7.0\Zadanye_64.csproj.CoreCompileInputs.cache
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\obj\Debug\net7.0\Zadanye_64.dll
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\obj\Debug\net7.0\refint\Zadanye_64.dll
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\obj\Debug\net7.0\Zadanye_64.pdb
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\obj\Debug\net7.0\Zadanye_64.genruntimeconfig.cache
+C:\Users\Рыжий\Desktop\Git\Sesya\Zadanye_64\obj\Debug\net7.0\ref\Zadanye_64.dll
